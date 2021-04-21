@@ -4,13 +4,13 @@
 
 [Richard Hopkins Portfolio](https://richardthopkins.github.io/RichardHopkinsPortfolio/)
 
-***
+
 
 ## Description:
 
 <p>add description here</p>
 
-***
+
 
 ## Technologies Used:
 
@@ -21,7 +21,7 @@
 * Javascript
 * GitHub
 
-***
+
 
 ## ScreenShots:
 
@@ -31,7 +31,7 @@
 
 ![alt text](./linkhere.png "Logo Title Text 1")
 
-***
+
 
 ## Contact Info:
 
@@ -39,6 +39,6 @@
 * [LinkedIn](https://www.linkedin.com/in/richard-hopkins-1a2599174/)
 * [GitHub](https://github.com/RichardtHopkins)
 
-***
+
 
 ## Licenses:
