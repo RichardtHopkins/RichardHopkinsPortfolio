@@ -31,34 +31,12 @@ nav {
 }
 
 li {
-  padding-top: 2rem;
+  padding-top: 1rem;
   width: 100%;
 }
 
 .title {
   padding: 0 0 1.5rem 0;
-}
-
-.nav-button {
-  font-size: 2rem;
-  font-weight: 600;
-  padding: .7rem .8rem;
-  width: 100%;
-  background: linear-gradient(45deg, var(--gradient1), var(--gradient2));
-  border: none;
-  text-align: center;
-  border-radius: 500px;
-}
-
-.nav-button :hover {
-  -webkit-box-shadow: 2px 2px 10px black;
-          box-shadow: 2px 2px 10px black;
-}
-
-.nav-button :focus {
-  outline: none;
-  -webkit-box-shadow: 2px 2px 10px black;
-          box-shadow: 2px 2px 10px black;
 }
 
 .text-gradient {
@@ -67,5 +45,16 @@ li {
   background: -webkit-linear-gradient(45deg, var(--gradient1), var(--gradient2));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  -webkit-transition: font-size 200ms ease;
+  transition: font-size 200ms ease;
+}
+
+.text-gradient:hover {
+  font-size: 3rem;
+}
+
+.text-gradient:focus {
+  outline: none;
+  font-size: 3rem;
 }
 /*# sourceMappingURL=Style.css.map */

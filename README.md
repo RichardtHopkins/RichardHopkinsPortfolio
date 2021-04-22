@@ -25,11 +25,13 @@
 
 ## ScreenShots:
 
-![alt text](./linkhere.png "Logo Title Text 1")
+![Landing Page](./assets/images/LandingPage.png)
 
-![alt text](./linkhere.png "Logo Title Text 1")
+![My Work Page](./linkhere.png)
 
-![alt text](./linkhere.png "Logo Title Text 1")
+![About Me Page](./linkhere.png)
+
+![contact me page on mobile](./linkhere.png)
 
 
 
