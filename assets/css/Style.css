@@ -45,10 +45,6 @@
           align-items: center;
 }
 
-.my-work-nav h1 {
-  font-size: 4rem;
-}
-
 li {
   padding-top: 1rem;
   width: 100%;
@@ -59,21 +55,29 @@ li {
 }
 
 .text-gradient {
+  display: block;
+  padding: .5rem;
   font-size: 2.5rem;
   font-weight: 700;
   background: -webkit-linear-gradient(45deg, var(--gradient1), var(--gradient2));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -webkit-transition: font-size 200ms ease;
-  transition: font-size 200ms ease;
 }
 
 .text-gradient:hover {
-  font-size: 3rem;
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
 }
 
 .text-gradient:focus {
   outline: none;
-  font-size: 3rem;
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
+}
+
+.project {
+  background-color: #64b3f4;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 /*# sourceMappingURL=Style.css.map */

@@ -21,10 +21,13 @@ h1{
   font-weight: 900;
 }
 h2{
-  font-size: 100%;
+  font-size: 2.5rem;
+  font-weight: 700;
 }
-
-
+h3{
+  font-size: 3rem;
+  font-weight: 700;
+}
 
 
 /* Matches the font of special elements to the rest of the page */
